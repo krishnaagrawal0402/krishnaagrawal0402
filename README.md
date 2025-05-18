@@ -12,10 +12,8 @@
 
 - 🎓 B.Tech in Computer Science & Engineering from JIIT Noida  
 - 💼 Passionate about **Java, Spring Boot**, and **PostgreSQL** backend development  
-- ⚙️ Experienced in **C++**, **Game Development (Unity)**, and **Generative AI**  
+- ⚙️ Experienced in **C++**, and, **Python**  
 - 🔐 Enthusiast in **Cryptography**, **Cybersecurity**, and building secure applications  
-- 🎮 Creator of immersive **3D FPS Maze Runner** and **Puzzle Games**  
-- 🎤 Organizer and Speaker for tech workshops and coding events (TechBlocks, Hackstreet)  
 - 📚 Constant learner, driven by curiosity and innovation  
 
 ---
@@ -25,8 +23,8 @@
 | Backend                     | Frontend              | Tools & Platforms        | Other Skills                 |
 |-----------------------------|-----------------------|--------------------------|------------------------------|
 | Java, Spring Boot, REST API | HTML, CSS, JS (basic) | Docker, Git, Maven       | Data Structures & Algorithms |
-| PostgreSQL, SQL             | React (learning)      | Linux, VS Code, IntelliJ |                              |
-| Python (intermediate)       |                       | CI/CD (Render)           | Cryptography & Security      |
+| PostgreSQL, SQL             | React (learning)      | Linux, VS Code, IntelliJ | Cryptography & CyberSecurity |
+| Python (intermediate)       |                       | CI/CD (Render)           |                              |
 
 ---
 
