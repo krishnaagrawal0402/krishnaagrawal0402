@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Agrawal — The Code Alchemist! 🧙‍♂️
 
-<!--
-**krishnaagrawal0402/krishnaagrawal0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Profile Banner](https://github.com/krishnaagrawal0402/krishnaagrawal0402/blob/main/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Building tomorrow’s tech, one commit at a time."* 🚀
+
+---
+
+## 🚀 About Me
+
+```plaintext
+╔══════════════════════════════════════════════╗
+║                                              ║
+║    🎓 BTech CSE @ JIIT Noida                   ║
+║    💻 Java | Spring Boot | PostgreSQL          ║
+║    ⚙️ C++ | Game Dev (Unity) | AI Enthusiast     ║
+║    🔐 Cryptography & Security Fanatic           ║
+║    🎮 Puzzle & 3D FPS Maze Runner Creator       ║
+║    🎤 Tech Workshop Organizer & Speaker          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
